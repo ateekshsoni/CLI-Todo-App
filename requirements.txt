@@ -1,0 +1,10 @@
+# Todo CLI Application Dependencies
+
+# Modern CLI framework with excellent type support
+typer>=0.9.0
+
+# Beautiful terminal output and formatting
+rich>=13.0.0
+
+# Click is a dependency of Typer but listing it explicitly
+click>=8.0.0
